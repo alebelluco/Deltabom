@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+requests
+plotly-express
+networkx
+collection
+openpyxl
+matplotlib-inline
+ipython
+matplotlib-venn
